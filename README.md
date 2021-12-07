@@ -11,6 +11,6 @@ Below is the short video of this script.
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/89068470/144973414-c8813c68-7b9a-4480-9d0f-87e16b2c24de.gif)
 
 
-**2. Convert PPT to PDF **
+**2. Convert PPT to PDF**
 
 This script will take a pptx file as input, and return pdf of that file.
